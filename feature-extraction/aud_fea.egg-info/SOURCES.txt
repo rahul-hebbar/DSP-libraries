@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+aud_fea.egg-info/PKG-INFO
+aud_fea.egg-info/SOURCES.txt
+aud_fea.egg-info/dependency_links.txt
+aud_fea.egg-info/requires.txt
+aud_fea.egg-info/top_level.txt
+fea/__init__.py

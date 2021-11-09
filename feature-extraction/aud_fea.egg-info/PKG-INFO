@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: aud-fea
+Version: 0.1.0
+Summary: Extract audio features
+Home-page: https://github.com/rahul-hebbar/DSP-libraries/tree/master/feature-extraction
+Author: Rahul_Hebbar
+Author-email: rhin1998@gmail.com
+License: MIT
+Description: # Feature Extraction  
+        
+        ##This library can be used for audio feature extraction  
+        
+        For info on how to use the package go to:  
+        https://github.com/rahul-hebbar/DSP-libraries/tree/master/feature-extraction
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
